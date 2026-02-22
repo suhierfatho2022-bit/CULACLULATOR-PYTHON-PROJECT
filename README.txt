@@ -1,5 +1,5 @@
 Project Title: Simple Calculator with Unit Testing
-Student Name: Mohamed AlKhatim
+Student Name: Reem Mohamed Abdelrahman 
 Instructor: Dr. Mohamed Abdelrahman
 Programming Language: Python
 
@@ -13,4 +13,5 @@ How to Run:
   python calculator.py
 
 - Run unit tests:
+
   python test_calculator.py
